@@ -12,7 +12,7 @@
 ### Connect with me:
 
 
-<img align="left" alt="http://maazshakeel.ml" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
+<a href="http://maazshakeel.ml"><img align="left" alt="http://maazshakeel.ml" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
 <img align="left" alt="ProCoder88 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 <img align="left" alt="ProCoder88 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 
